@@ -254,3 +254,4 @@ if lw_sales and total_sales:
 
 else:
     st.error("❗ Invalid sales input or missing 'TOTAL SALES' in raw data")
+
